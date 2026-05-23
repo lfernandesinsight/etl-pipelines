@@ -1,7 +1,7 @@
 # 🔄 ETL Pipelines
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Pipelines+de+dados+ETL;SSIS+%7C+Talend+%7C+SQL+%7C+Python;Extract+→+Transform+→+Load" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header&text=ETL%20Pipelines&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=SSIS%20%7C%20Talend%20%7C%20SQL%20%7C%20Python%20%7C%20Extract%20%E2%86%92%20Transform%20%E2%86%92%20Load&descAlignY=80&descSize=14&descColor=ffffff" alt="ETL Pipelines" />
 </div>
 
 ---
